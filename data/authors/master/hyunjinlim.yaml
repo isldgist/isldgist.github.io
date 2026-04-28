@@ -16,6 +16,7 @@ bio:
 tags:
   - Self-Evolving A.I.
   - On-device A.I.
+hidden_image: hyunjinlim.jpg
 affiliations:
   - name: DGIST
     url: https://www.dgist.ac.kr/en_eecs/index.do
@@ -24,14 +25,14 @@ links:
     url: mailto:hyunjinlim@dgist.ac.kr
     label: E-mail Me
   - icon: homepage
-    url: 
+    url: https://being0606.github.io
     label: Homepage
   - icon: brands/github
-    url: 
+    url: http://github.com/being0606
     label: GitHub
   - icon: brands/linkedin
-    url: 
+    url: https://www.linkedin.com/in/hyun-jin-lim
     label: LinkedIn
   - icon: academicons/google-scholar
-    url: 
+    url: https://scholar.google.com/citations?user=bSgYgLsAAAAJ
     label: Google Scholar

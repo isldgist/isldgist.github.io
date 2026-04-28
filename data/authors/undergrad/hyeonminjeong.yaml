@@ -9,10 +9,14 @@ name:
 role: Intern
 bio: B.S, Chungnam Nat. Univ.
 tags:
+  - Physical A.I.
   - Multimodal A.I.
-  - Robotic A.I.
 links:
   - icon: at-symbol
     url: mailto:jhm9808@gmail.com
     label: Email
-
+  - icon: github
+    url: https://github.com/jung-hyeonmin
+    label: GitHub
+  - icon: linkedin
+    url: www.linkedin.com/in/hyeonminjeong

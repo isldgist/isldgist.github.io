@@ -9,10 +9,14 @@ name:
 role: Intern
 bio: B.S., Inha Univ
 tags:
-  - Multimodal A.I.
-  - Physical A.I.
+  - Robotics A.I.
+  - Human Motion Modeling
+  - Computer Vision
 links:
   - icon: at-symbol
     url: mailto:wldlf2819@naver.com
     label: Email
+  - icon: github
+    url: https://github.com/Yoon-Ji-Il 
+    label: GitHub
 
