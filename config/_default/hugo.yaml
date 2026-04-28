@@ -5,7 +5,7 @@
 
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
-baseURL: 'https://JYOUN9.github.io/isllab-page-test/' # Website URL
+baseURL: 'https://isldgist.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS

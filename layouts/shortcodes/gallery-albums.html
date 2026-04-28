@@ -494,7 +494,8 @@
 
       <button type="button" class="gallery-card" data-album-index="{{ $idx }}" data-category="{{ $categoryKey }}">
         <img
-          src="{{ $coverPath }}"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
+          data-src="{{ $coverPath }}"
           alt="{{ $album.title }} cover"
           class="gallery-card-cover"
           loading="lazy"
@@ -592,6 +593,7 @@
   if (!albums.length) return;
 
   const cards = document.querySelectorAll(".gallery-card[data-album-index]");
+  const coverImages = document.querySelectorAll(".gallery-card-cover[data-src]");
   const filterButtons = document.querySelectorAll(".gallery-filter-btn[data-filter]");
   const filterEmpty = document.getElementById("gallery-filter-empty");
   const loadMoreWrap = document.getElementById("gallery-load-more-wrap");
@@ -607,6 +609,40 @@
   const nextBtn = document.getElementById("gallery-viewer-next");
 
   if (!viewer || !categoryEl || !titleEl || !dateEl || !counterEl || !imageEl || !closeBtn || !prevBtn || !nextBtn) return;
+
+  function loadCoverImage(img) {
+    if (!img || img.getAttribute("data-loaded") === "true") return;
+    const src = img.getAttribute("data-src");
+    if (!src) return;
+    img.src = src;
+    img.setAttribute("data-loaded", "true");
+  }
+
+  const coverObserver = "IntersectionObserver" in window
+    ? new IntersectionObserver(
+        (entries, observer) => {
+          entries.forEach((entry) => {
+            if (!entry.isIntersecting) return;
+            loadCoverImage(entry.target);
+            observer.unobserve(entry.target);
+          });
+        },
+        { rootMargin: "240px 0px", threshold: 0.01 }
+      )
+    : null;
+
+  function observeVisibleCoverImages() {
+    coverImages.forEach((img) => {
+      if (img.getAttribute("data-loaded") === "true") return;
+      const card = img.closest(".gallery-card");
+      if (!card || card.style.display === "none") return;
+      if (coverObserver) {
+        coverObserver.observe(img);
+      } else {
+        loadCoverImage(img);
+      }
+    });
+  }
 
   let currentAlbum = 0;
   let currentImage = 0;
@@ -646,6 +682,8 @@
         loadMoreWrap.style.display = "none";
       }
     }
+
+    observeVisibleCoverImages();
   }
 
   filterButtons.forEach((btn) => {
