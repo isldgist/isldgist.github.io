@@ -262,6 +262,36 @@
     min-width: 0;
   }
 
+  /* Keep homepage Research Topic carousel cards at the same visual width
+     as 2-column Research Area cards on the Research page. */
+  section[id="research-topic"] .research-carousel-slide {
+    display: flex;
+    justify-content: center;
+  }
+
+  section[id="research-topic"] .research-carousel-slide .research-card {
+    width: 100%;
+    max-width: calc(((var(--research-max-width) - 1rem) / 2) * 0.9);
+  }
+
+  section[id="research-topic"] .research-carousel {
+    padding: 0;
+  }
+
+  section[id="research-topic"] .research-carousel-main {
+    max-width: calc(((var(--research-max-width) - 1rem) / 2) * 0.9);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  section[id="research-topic"] .research-carousel-nav.prev {
+    left: calc(-2.4rem - 0.45rem);
+  }
+
+  section[id="research-topic"] .research-carousel-nav.next {
+    right: calc(-2.4rem - 0.45rem);
+  }
+
   .research-mission-card {
     display: flex;
     flex-direction: column;
@@ -426,6 +456,26 @@
   }
 
   @media (max-width: 768px) {
+    section[id="research-topic"] .research-carousel-slide .research-card {
+      max-width: 100%;
+    }
+
+    section[id="research-topic"] .research-carousel {
+      width: 100%;
+    }
+
+    section[id="research-topic"] .research-carousel-main {
+      max-width: 100%;
+    }
+
+    section[id="research-topic"] .research-carousel-nav.prev {
+      left: calc(-2rem - 0.35rem);
+    }
+
+    section[id="research-topic"] .research-carousel-nav.next {
+      right: calc(-2rem - 0.35rem);
+    }
+
     .research-carousel {
       width: calc(100% - 4.2rem);
       margin-left: auto;
