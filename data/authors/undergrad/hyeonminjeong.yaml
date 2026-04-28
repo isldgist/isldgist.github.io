@@ -15,8 +15,8 @@ links:
   - icon: at-symbol
     url: mailto:jhm9808@gmail.com
     label: Email
-  - icon: github
+  - icon: brands/github
     url: https://github.com/jung-hyeonmin
     label: GitHub
-  - icon: linkedin
-    url: www.linkedin.com/in/hyeonminjeong
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/hyeonminjeong
