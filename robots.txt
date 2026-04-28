@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://JYOUN9.github.io/isllab-page-test/sitemap.xml
