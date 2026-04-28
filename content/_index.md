@@ -66,7 +66,7 @@ sections:
     content:
       title: ""
       text: |
-        <h2 style="text-align: center; margin-bottom: 0.4rem; font-size: 2rem; font-weight: 700;">Research Topic</h2>
+        <h2 style="text-align: center; margin-bottom: 2rem; font-size: 2rem; font-weight: 700;">Research Topic</h2>
         {{< research-cards columns="1" carousel="true" mission_first="true" >}}
     design:
       spacing:
