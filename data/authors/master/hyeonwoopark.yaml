@@ -16,6 +16,7 @@ bio:
 tags:
   - Self-Evolving A.I.
   - Computer Vision
+hidden_image: hyeonwoopark.jpg
 affiliations:
   - name: DGIST
     url: https://www.dgist.ac.kr/en_eecs/index.do
@@ -27,11 +28,11 @@ links:
     url: 
     label: Homepage
   - icon: brands/github
-    url: 
+    url: https://github.com/hyeonu4995/
     label: GitHub
   - icon: brands/linkedin
-    url: 
+    url: https://www.linkedin.com/in/%ED%98%84%EC%9A%B0-%EB%B0%95-721585386
     label: LinkedIn
   - icon: academicons/google-scholar
-    url: 
+    url: https://scholar.google.com/citations?user=5713CiUAAAAJ&hl=ko&oi=sra
     label: Google Scholar

@@ -11,7 +11,14 @@ bio: B.S., DGIST
 tags:
   - Multimodal A.I.
   - Physical A.I.
+hidden_image: bominkang.jpg
 links:
   - icon: at-symbol
     url: mailto:mellowoura@dgist.ac.kr
     label: Email
+  - icon: brands/github
+    url: https://github.com/mellow-info
+    label: GitHub
+  - icon: brands/linkedin
+    url: www.linkedin.com/in/bomin-kang-277642337
+    label: LinkedIn
