@@ -15,17 +15,7 @@
         - "NVIDIA RTX 3090 (2ea) / 300GB RAM / 10TB Storage"
 
 
-- title: "Robot"
-  robots:
-    - name: "ORCA"
-      image: "orca.jpg"
-    - name: "ORCA"
-      image: "orca.jpg"
-    - name: "ORCA"
-      image: "orca.jpg"
-    - name: "ORCA"
-      image: "orca.jpg"
-    - name: "ORCA"
-      image: "orca.jpg"
-    - name: "ORCA"
-      image: "orca.jpg"
+#- title: "Robot"
+#  robots:
+#    - name: "ORCA"
+#      image: "orca.jpg"
