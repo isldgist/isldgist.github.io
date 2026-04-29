@@ -9,8 +9,10 @@ name:
 role: Intern
 bio: B.S., DGIST
 tags:
-  - Multimodal A.I.
   - Physical A.I.
+  - World Model
+  - Autonomous Driving
+hidden_image: minguekim.jpg
 links:
   - icon: at-symbol
     url: kimmingue@dgist.ac.kr
