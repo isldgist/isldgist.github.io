@@ -14,8 +14,10 @@ status:
 role: Postdoctoral Researcher
 bio: 
 tags:
-  - Multimodal A.I.
   - Physical A.I.
+  - Robotics A.I.
+  - RL
+hidden_image: nicholausisackthomas.png
 affiliations:
   - name: DGIST
     url: https://www.dgist.ac.kr/en_eecs/index.do
@@ -23,6 +25,9 @@ links:
   - icon: at-symbol
     url: mailto:inicholaus@dgist.ac.kr
     label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Isaac009
+    label: GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dr-nicholaus-isack-thomas-770815111/
     label: LinkedIn
