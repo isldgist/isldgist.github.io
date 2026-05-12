@@ -1,8 +1,7 @@
 ﻿---
-title: Contact
+title: Join ISL
 date: 2024-01-01
 type: landing
-url: /application/
 
 design:
   spacing: "6rem"

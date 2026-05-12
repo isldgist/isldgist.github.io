@@ -1,8 +1,7 @@
 ---
-title: People
+title: Members
 date: 2024-01-01
 type: landing
-url: /members/
 
 design:
   spacing: "6rem"
