@@ -1,4 +1,11 @@
 - title: "자기 진화형 Physical LLM: 불확실한 환경에서 행동 파운데이션 모델의 강건하고 효율적인 적응 기술 연구"
+  duration: "05/2026 - 06/2036 (1 month)"
+  funding: "NIPA"
+  infra: "b200 * 16대"
+  status: "Ongoing"
+  start: "2026-05"
+
+- title: "자기 진화형 Physical LLM: 불확실한 환경에서 행동 파운데이션 모델의 강건하고 효율적인 적응 기술 연구"
   duration: "03/2026 - 02/2030 (5 years)"
   funding: "과학기술정보통신부"
   organization: "(신)한국연구재단(통합)"
