@@ -13,7 +13,7 @@ main:
   #   url: /#solutions
   #   weight: 30
   - name: Members
-    url: /people/
+    url: /members/
     weight: 35
   - name: Research
     url: /research/
@@ -34,7 +34,7 @@ main:
     url: /info/
     weight: 41
   - name: Join ISL
-    url: /contact/
+    url: /application/
     weight: 42
   # - name: Resources
   #   weight: 40

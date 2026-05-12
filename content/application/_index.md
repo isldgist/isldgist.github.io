@@ -2,6 +2,7 @@
 title: Contact
 date: 2024-01-01
 type: landing
+url: /application/
 
 design:
   spacing: "6rem"
@@ -12,7 +13,7 @@ sections:
     content:
       title: Prospective Members
       text: |
-        {{< contact-notice >}}
+        {{< application-notice >}}
     design:
       spacing:
         padding: ["4.25rem", 0, "2rem", 0]

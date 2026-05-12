@@ -22,7 +22,7 @@ items:
     title_icon: /media/icon/link.svg
     links:
       - label: Homepage
-        url: https://isllab.co.kr
+        url: https://isl.dgist.ac.kr
         icon: /media/icon/homepage2.svg
       - label: Prof. Page
         url: https://sites.google.com/view/dhpark/
@@ -36,8 +36,8 @@ items:
       - label: Apply
         url: https://forms.gle/EZTdExuBqut9GR817
         icon: /media/icon/form.svg
-      - label: Calendar
-        url: https://sites.google.com/view/isllab-dgist/calendar
+      - label: Book a Meeting
+        url: /calendar/
         text: Lab Calendar
         icon: /media/icon/calendar.svg
 

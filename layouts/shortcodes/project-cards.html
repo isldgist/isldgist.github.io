@@ -138,7 +138,7 @@
   }
 </style>
 
-{{ $projects := sort (site.Data.projects.projects | default (slice)) "start" "desc" }}
+{{ $projects := sort (site.Data.project.projects | default (slice)) "start" "desc" }}
 {{ $sections := slice "On-Going Projects" "Completed Projects" }}
 
 <div style="width: 100%; max-width: var(--project-max-width); margin-left: auto; margin-right: auto; padding-left: 1rem; padding-right: 1rem;">

@@ -2,6 +2,7 @@
 title: People
 date: 2024-01-01
 type: landing
+url: /members/
 
 design:
   spacing: "6rem"
@@ -13,7 +14,7 @@ sections:
       title: Professor
       text: |
         <div class="members-section-divider"></div>
-        {{< people-pi >}}
+        {{< members-pi >}}
     design:
       spacing:
         padding: ["2rem", 0, "2rem", 0]
@@ -25,7 +26,7 @@ sections:
       title: Post Doc
       text: |
         <div class="members-section-divider"></div>
-        {{< people-postdoc >}}
+        {{< members-postdoc >}}
     design:
       spacing:
         padding: ["2rem", 0, "2rem", 0]
@@ -37,7 +38,7 @@ sections:
       title: Ph.d Students
       text: |
         <div class="members-section-divider"></div>
-        {{< people-phd >}}
+        {{< members-phd >}}
     design:
       spacing:
         padding: ["2rem", 0, "2rem", 0]
@@ -49,7 +50,7 @@ sections:
       title: M.S. Students
       text: |
         <div class="members-section-divider"></div>
-        {{< people-master >}}
+        {{< members-master >}}
     design:
       spacing:
         padding: ["2rem", 0, "2rem", 0]
@@ -61,7 +62,7 @@ sections:
       title: Undergraduate Students
       text: |
         <div class="members-section-divider"></div>
-        {{< people-interns >}}
+        {{< members-interns >}}
     design:
       spacing:
         padding: ["2rem", 0, "2rem", 0]
@@ -73,7 +74,7 @@ sections:
       title: Alumni
       text: |
         <div class="members-section-divider"></div>
-        {{< people-alumni >}}
+        {{< members-alumni >}}
     design:
       spacing:
         padding: ["2rem", 0, "2rem", 0]

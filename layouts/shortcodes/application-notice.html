@@ -1,4 +1,4 @@
-{{ $notice := site.Data.contact.notice | default dict }}
+{{ $notice := site.Data.application.notice | default dict }}
 {{ $tracks := $notice.tracks | default (slice) }}
 {{ $buttons := $notice.buttons | default (slice) }}
 
