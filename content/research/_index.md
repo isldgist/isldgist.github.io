@@ -10,7 +10,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: Research
+      title: ""
       text: |
         <section class="research-section">
           <h2 class="research-section-title">Our Mission</h2>

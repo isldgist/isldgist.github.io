@@ -9,7 +9,7 @@ image:
 captions:
   - Chat Driving
   - Attack Driving
-description: Advancing the frontier of Embodied AI by integrating multimodal perception with real-world robotic control to automate complex physical tasks.
+description: Enabling safe and intelligent autonomous driving through trajectory prediction, motion planning, and multimodal scene understanding for real-world environments.
 #url: https://example.com/quantum-ml
 order: 4
 

@@ -6,7 +6,7 @@
 #   code: https://github.com/...
 #   link: https://...
 
-- slug: BitTP-2026
+- slug: CascadeOcc-2026
   title: "CascadeOcc: Rethinking 3D Occupancy World Models with Cascaded VQ Representations"
   authors:
     - Kyumin Hwang*
@@ -283,8 +283,7 @@
   method: 
   domain: Robotic A.I.
   task: Semantic Segmentation
-  links: 
-    paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Kweon_Unlocking_the_Potential_of_Ordinary_Classifier_Class-Specific_Adversarial_Erasing_Framework_ICCV_2021_paper.pdf
+  links:
 
 - slug: 3D-Sensor-2019
   title: "A Scanning 3D Sensor and Its Object Recognition for Autonomous Robots"

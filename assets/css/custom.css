@@ -273,9 +273,15 @@ html:not(.dark) #project .project-card {
 
 
 
+/* Hide navbar brand text, keep only logo image */
+a.navbar-brand {
+  font-size: 0 !important;
+  letter-spacing: 0 !important;
+}
+
 /*
 타이틀 색깔 바꾸기
-#section-hero .hero-i { color: #1d5160; } 
-#section-hero .hero-s { color: #626c75; } 
-#section-hero .hero-l { color: #df4c39; } 
+#section-hero .hero-i { color: #1d5160; }
+#section-hero .hero-s { color: #626c75; }
+#section-hero .hero-l { color: #df4c39; }
 */

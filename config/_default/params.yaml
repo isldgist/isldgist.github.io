@@ -8,7 +8,7 @@ hugoblox:
     tagline: ""
     description: "Intelligent Systems and Learning Lab. @ DGIST"
     social:
-      twitter: "BuildLore"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""                        # Twitter/X handle for Twitter Cards (without @)
   theme:
     mode: system
     pack: "default"

@@ -33,7 +33,7 @@ main:
   - name: Info
     url: /info/
     weight: 41
-  - name: Contact
+  - name: Join ISL
     url: /contact/
     weight: 42
   # - name: Resources
