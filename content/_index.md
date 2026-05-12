@@ -13,18 +13,11 @@ sections:
       title: Intelligent Systems and Learning Laboratory
       #title: "<span class='hero-i'>I</span>ntelligent <span class='hero-s'>S</span>ystems and <span class='hero-l'>L</span>earning Laboratory"
       text: DGIST (Daegu Gyeongbuk Institute of Science and Technology)
-      primary_action:
-        text: Join us
-        url: https://docs.google.com/forms/d/e/1FAIpQLScYQf-lwtDU-QAPXjflb9WH-COt_b2Xl5a8rkQEoPiPzWjOdA/viewform
-        icon: rocket-launch
-      secondary_action:
-        text: News
-        url: news/
       announcement:
         text: "We are welcoming new students and interns."
         link:
           text: "Apply"
-          url: "info/"
+          url: "contact/"
     design:
       no_padding: true
       # For full-screen, add `min-h-screen` below

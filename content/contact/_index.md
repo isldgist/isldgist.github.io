@@ -10,7 +10,7 @@ sections:
   - block: markdown
     id: notice
     content:
-      title: Notice
+      title: Prospective Members
       text: |
         {{< contact-notice >}}
     design:
