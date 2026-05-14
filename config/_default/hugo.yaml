@@ -5,7 +5,7 @@
 
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'ISL Lab @ DGIST'
-baseURL: 'https://isldgist.github.io/' # Website URL
+baseURL: 'https://isl.dgist.ac.kr/' # Website URL
 
 ############################
 ## PAGE OPTIONS

@@ -188,6 +188,9 @@
                 {{ .title | default "" }}
               </h3>
               <p class="project-field"><span class="project-field-label">Duration:</span>{{ $durationHTML | safeHTML }}</p>
+              {{ if .program }}
+                <p class="project-field"><span class="project-field-label">Program:</span>{{ .program }}</p>
+              {{ end }}
               <p class="project-field"><span class="project-field-label">Funding:</span>{{ .funding | default "-" }}</p>
               {{ if $organization }}
                 <p class="project-field"><span class="project-field-label">Organization:</span>{{ $organization }}</p>

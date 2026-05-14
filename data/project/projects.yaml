@@ -9,11 +9,12 @@
   duration: "05/2026 - 06/2026 (1 month)"
   funding: "한국정보통신진흥협회"
   organization: "정보통신산업진흥원"
-  infra: "b200 * 16대"
+  infra: "B200 * 16대"
   status: "Ongoing"
 
 - title: "아카이브 영상 콘텐츠 활용을 위한 AI Outpainting 및 콘텐츠 변환 기술 개발"
   duration: "04/2026 - 12/2028 (3 years)"
+  program: "K-콘텐츠 제작 기술개발"
   funding: "문화체육관광부"
   organization: "한국콘텐츠진흥원"
   status: "Ongoing"
@@ -21,6 +22,7 @@
 
 - title: "자기 진화형 Physical LLM: 불확실한 환경에서 행동 파운데이션 모델의 강건하고 효율적인 적응 기술 연구"
   duration: "03/2026 - 02/2030 (4 years)"
+  program: "신진연구(유형B)"
   funding: "과학기술정보통신부"
   organization: "한국연구재단"
   status: "Ongoing"
@@ -28,6 +30,7 @@
 
 - title: "행동 파운데이션 모델의 동적 환경으로 확장을 통한 안전하고 범용적인 인간-로봇 협동 연구"
   duration: "09/2025 - 08/2026 (1 years)"
+  program: "우수신진연구(씨앗연구)"
   funding: "과학기술정보통신부"
   organization: "한국연구재단"
   status: "Ongoing"
@@ -35,6 +38,7 @@
 
 - title: "Physical AI 분야의 거대 생성모델 기술 선도를 위한 LG AI STAR 인재양성 사업"
   duration: "07/2025 - 12/2028 (4 years)"
+  program: "생성AI선도인재양성(R&D)"
   funding: "과학기술정보통신부"
   organization: "정보통신기획평가원"
   status: "Ongoing"
@@ -42,6 +46,7 @@
 
 - title: "로봇및기계전자공학연구소"
   duration: "09/2025 - 08/2034 (9 years)"
+  program: "글로컬랩"
   funding: "교육부"
   organization: "한국연구재단"
   status: "Ongoing"
@@ -49,6 +54,7 @@
 
 - title: "AI스타펠로우십지원(대구경북과학기술원)"
   duration: "04/2025 - 12/2028 (4 years)"
+  program: "AI스타펠로우십지원"
   funding: "과학기술정보통신부"
   organization: "정보통신기획평가원"
   status: "Ongoing"
@@ -56,6 +62,7 @@
 
 - title: "교원 start-up fund (박대희)"
   duration: "02/2025 - 12/2028 (4 years)"
+  program: "DGIST 고유사업"
   funding: "대구경북과학기술원"
   organization: "대구경북과학기술원"
   status: "Ongoing"
@@ -70,6 +77,7 @@
 
 - title: "(InnoCORE) 초거대언어모델 혁신 연구단"
   duration: "07/2025 - 12/2029 (5 years)"
+  program: "4대 과학기술원 InnoCORE 연구단"
   funding: "과학기술정보통신부"
   organization: "과학기술정보통신부"
   status: "Ongoing"
@@ -77,14 +85,15 @@
 
 - title: "(InnoCORE) 바이오 체화형 피지컬 AI 연구단"
   duration: "07/2025 - 12/2029 (5 years)"
+  program: "4대 과학기술원 InnoCORE 연구단"
   funding: "과학기술정보통신부"
   organization: "과학기술정보통신부"
   status: "Ongoing"
   start: "2025-07"
 
-- title: "Nvidia Grant 2026"
+- title: "NVIDIA Grant 2026"
   duration: "02/2026 - 08/2026 (0.5 years)"
-  funding: "Nividia Grant"
+  funding: "NVIDIA"
   infra: "H200 * 4대"
   status: "Ongoing"
   start: "2025-07"
