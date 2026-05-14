@@ -6,6 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'ISL Lab @ DGIST'
 baseURL: 'https://isl.dgist.ac.kr/' # Website URL
+googleAnalytics: G-1XS9P3HSF5
 
 ############################
 ## PAGE OPTIONS

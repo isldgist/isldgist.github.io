@@ -40,7 +40,7 @@ hugoblox:
     style: navbar                       # navbar | navbar-simple | minimal
     sticky: true
     align: center                       # left | center | right
-    search: true
+    search: false
     theme_toggle: true
     theme_picker: false
     language_switcher: true
@@ -88,7 +88,7 @@ hugoblox:
     citations:
       style: apa                        # apa | mla | chicago | ieee
   search:
-    enable: true
+    enable: false
     suggestions: []
     quick_actions: []
   comments:
