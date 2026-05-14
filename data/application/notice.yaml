@@ -6,7 +6,7 @@ buttons:
   - label: "Apply 🚀"
     url: "https://docs.google.com/forms/d/e/1FAIpQLScYQf-lwtDU-QAPXjflb9WH-COt_b2Xl5a8rkQEoPiPzWjOdA/viewform?usp=header"
     variant: "primary"
-    new_tab: false
+    new_tab: true
 
 tracks:
   - title: "학부인턴 (DGIST 공식 프로그램)"

@@ -59,14 +59,20 @@ sections:
     content:
       title: ""
       text: |
+        <style>
+          .isl-intro-text { color: #374151; }
+          .dark .isl-intro-text { color: #e2e8f0; }
+          .isl-intro-link { color: #1d4ed8; font-weight: 600; text-decoration: none; }
+          .dark .isl-intro-link { color: #60a5fa; }
+        </style>
         <div style="max-width: 1200px; margin: 0 auto;">
-          <p style="font-size: 1.1rem; line-height: 1.85; color: #374151; margin: 0 0 0.6rem;">
+          <p class="isl-intro-text" style="font-size: 1.1rem; line-height: 1.85; margin: 0 0 0.6rem;">
             Welcome to the <strong>Intelligent Systems and Learning (ISL) Lab</strong> at <strong>DGIST</strong>, led by <strong>Prof. Daehee Park</strong>.
             Our mission is to bridge the gap between artificial intelligence and the physical world.<br>
             Moving beyond traditional model scaling paradigms, we strive to advance a new generation of practical and deployable Physical AI capable of operating reliably in complex, real-world environments.
           </p>
-          <p style="font-size: 1.1rem; line-height: 1.85; color: #374151; margin: 0;">
-            We are always looking for passionate students who want to push the boundaries of AI. <a href="/application/" style="color: #1d4ed8; font-weight: 600; text-decoration: none;">Join us →</a>
+          <p class="isl-intro-text" style="font-size: 1.1rem; line-height: 1.85; margin: 0;">
+            We are always looking for passionate students who want to push the boundaries of AI. <a href="/application/" class="isl-intro-link">Join us →</a>
           </p>
         </div>
     design:
