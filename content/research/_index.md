@@ -17,7 +17,6 @@ sections:
           <div class="research-section-divider"></div>
           <p class="research-mission-text">At ISL Lab, our mission is to bridge the gap between artificial intelligence and the physical world. Moving beyond traditional model scaling paradigms, we strive to advance a new generation of practical and deployable Physical AI capable of operating reliably in complex, real-world environments.</p>
           <p class="research-mission-text" style="margin-top: 0.85rem;">To this end, our research focuses on Knowledge Integration, enabling the adaptation of large foundation models to domain-specific physical tasks. We explore World Models and test-time self-evolving architectures to ensure adaptive and resilient behavior under real-world uncertainty, and ultimately pursue efficient on-device AI that delivers reliable intelligence on resource-constrained systems.</p>
-          <img src="../media/research/mission.jpg" alt="Research mission" draggable="false" style="display: block; width: 100%; max-width: 480px; margin: 1.25rem auto 0; border-radius: 0.75rem; pointer-events: none; user-select: none; -webkit-user-drag: none;">
         </section>
 
         <section class="research-section">

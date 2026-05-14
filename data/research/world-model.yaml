@@ -3,7 +3,7 @@ title: World Model
 #category: Intelligent Systems
 pair_gap: 52
 pair_side_padding: 0
-description: Research on developing AI systems that can represent and reason about the world in a structured way.
+description: Developing internal models that allow AI systems to predict, simulate, and reason about future states of the world, enabling more robust planning and decision-making under uncertainty.
 image: 
   - world-model1.gif
   - world-model2.gif

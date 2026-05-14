@@ -1,5 +1,6 @@
 - title: "다중 휴머노이드의 자율 협업을 위한 비전-언어 모델 기반 적응형 장기·복합작업 계획 기술"
   duration: "04/2026 - 12/2030 (5 years)"
+  program: "미래유망융합기술파이오니어"
   funding: "과학기술정보통신부"
   organization: "한국연구재단"
   status: "Ongoing"
@@ -7,6 +8,7 @@
 
 - title: "한국형 Physical LLM 의 실시간성과 안정성을 위한 가변형 추론 프레임워크 개발"
   duration: "05/2026 - 06/2026 (1 month)"
+  program: "첨단 GPU 활용 지원 사업"
   funding: "한국정보통신진흥협회"
   organization: "정보통신산업진흥원"
   infra: "B200 * 16대"
@@ -38,7 +40,7 @@
 
 - title: "Physical AI 분야의 거대 생성모델 기술 선도를 위한 LG AI STAR 인재양성 사업"
   duration: "07/2025 - 12/2028 (4 years)"
-  program: "생성AI선도인재양성(R&D)"
+  program: "생성AI핵심고급인재"
   funding: "과학기술정보통신부"
   organization: "정보통신기획평가원"
   status: "Ongoing"

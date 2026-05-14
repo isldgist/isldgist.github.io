@@ -292,6 +292,22 @@
     right: calc(-2.4rem - 0.45rem);
   }
 
+  .research-mission-text-body {
+    padding: 1.25rem 1.5rem 1.5rem;
+    font-size: 0.97rem;
+    line-height: 1.8;
+    color: #374151;
+  }
+  .dark .research-mission-text-body {
+    color: #d1d5db;
+  }
+  .research-mission-text-body p {
+    margin: 0 0 0.85rem;
+  }
+  .research-mission-text-body p:last-child {
+    margin-bottom: 0;
+  }
+
   .research-mission-card {
     display: flex;
     flex-direction: column;
@@ -510,8 +526,9 @@
 {{ $carousel := lower (printf "%v" (.Get "carousel" | default "false")) }}
 {{ $isCarousel := eq $carousel "true" }}
 {{ $missionFirst := eq (lower (printf "%v" (.Get "mission_first" | default "false"))) "true" }}
-{{ $missionImageParam := strings.TrimSpace (printf "%v" (.Get "mission_image" | default "media/research/mission.jpg")) }}
+{{ $missionImageParam := strings.TrimSpace (printf "%v" (.Get "mission_image" | default "")) }}
 {{ $missionTitle := strings.TrimSpace (printf "%v" (.Get "mission_title" | default "Mission")) }}
+{{ $missionText := .Get "mission_text" | default "" }}
 {{ $missionImage := "" }}
 {{ if ne $missionImageParam "" }}
   {{ if or (hasPrefix $missionImageParam "http://") (hasPrefix $missionImageParam "https://") }}
@@ -537,19 +554,25 @@
         </button>
         <div class="research-carousel-viewport">
           <div class="research-carousel-track">
-          {{ if and $missionFirst (ne $missionImage "") }}
+          {{ if and $missionFirst (or (ne $missionImage "") (ne $missionText "")) }}
             <div class="research-carousel-slide">
               <div class="research-card research-mission-card bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow visible">
                 <div class="research-mission-header">
                   <h3 class="research-mission-title">{{ $missionTitle }}</h3>
                 </div>
-                <div class="w-full research-media-wrapper research-mission-media">
-                  <div class="research-media-single no-caption">
-                    <div class="research-media-frame">
-                      <img src="{{ $missionImage }}" alt="{{ $missionTitle }}" class="research-media max-w-full max-h-full object-contain" style="display: block; margin: 0;" loading="lazy" decoding="async" fetchpriority="low" onerror="this.style.display='none'">
+                {{ if ne $missionText "" }}
+                  <div class="research-mission-text-body">
+                    {{ $missionText | markdownify }}
+                  </div>
+                {{ else }}
+                  <div class="w-full research-media-wrapper research-mission-media">
+                    <div class="research-media-single no-caption">
+                      <div class="research-media-frame">
+                        <img src="{{ $missionImage }}" alt="{{ $missionTitle }}" class="research-media max-w-full max-h-full object-contain" style="display: block; margin: 0;" loading="lazy" decoding="async" fetchpriority="low" onerror="this.style.display='none'">
+                      </div>
                     </div>
                   </div>
-                </div>
+                {{ end }}
               </div>
             </div>
           {{ end }}

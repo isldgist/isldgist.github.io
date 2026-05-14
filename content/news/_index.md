@@ -12,8 +12,6 @@ sections:
     content:
       title: News
       text: |
-        <p style="margin-bottom: 3rem;">Lab announcements, paper acceptances, Projects, awards, and events.</p>
-
         {{< news-cards >}}
     design:
       spacing:

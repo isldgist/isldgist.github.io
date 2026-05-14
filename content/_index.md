@@ -14,7 +14,7 @@ sections:
       #title: "<span class='hero-i'>I</span>ntelligent <span class='hero-s'>S</span>ystems and <span class='hero-l'>L</span>earning Laboratory"
       text: DGIST (Daegu Gyeongbuk Institute of Science and Technology)
       announcement:
-        text: "We are welcoming new students and interns."
+        text: "We welcome new students and interns."
         link:
           text: "Apply"
           url: "/application/"
@@ -55,12 +55,31 @@ sections:
   #     spacing:
   #       padding: ["1rem", 0, "1rem", 0]
   - block: markdown
+    id: intro
+    content:
+      title: ""
+      text: |
+        <div style="max-width: 1200px; margin: 0 auto;">
+          <p style="font-size: 1.1rem; line-height: 1.85; color: #374151; margin: 0 0 0.6rem;">
+            Welcome to the <strong>Intelligent Systems and Learning (ISL) Lab</strong> at <strong>DGIST</strong>, led by <strong>Prof. Daehee Park</strong>.
+            Our mission is to bridge the gap between artificial intelligence and the physical world.<br>
+            Moving beyond traditional model scaling paradigms, we strive to advance a new generation of practical and deployable Physical AI capable of operating reliably in complex, real-world environments.
+          </p>
+          <p style="font-size: 1.1rem; line-height: 1.85; color: #374151; margin: 0;">
+            We are always looking for passionate students who want to push the boundaries of AI. <a href="/application/" style="color: #1d4ed8; font-weight: 600; text-decoration: none;">Join us →</a>
+          </p>
+        </div>
+    design:
+      spacing:
+        padding: ["3rem", 0, "1rem", 0]
+
+  - block: markdown
     id: research-topic
     content:
       title: ""
       text: |
-        <h2 style="text-align: center; margin-bottom: 2rem; font-size: 2rem; font-weight: 700;">Research Topic</h2>
-        {{< research-cards columns="1" carousel="true" mission_first="true" >}}
+        <h2 style="text-align: center; margin-bottom: 2rem; font-size: 2rem; font-weight: 700;">Research Topics</h2>
+        {{< research-cards columns="1" carousel="true" >}}
     design:
       spacing:
         padding: ["2rem", 0, "2rem", 0]

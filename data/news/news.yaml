@@ -1,7 +1,7 @@
 
 - date: 2026-05
   type: Project
-  title: "Received three research grants for AI and robotics projects"
+  title: "Awarded three research grants for AI and robotics projects (미래유망융합기술파이오니어, K-콘텐츠 제작 기술개발, 첨단 GPU 활용 지원 사업)"
   description: |-
     Project title: 다중 휴머노이드의 자율 협업을 위한 비전-언어 모델 기반 적응형 장기·복합작업 계획 기술
     Project title: 아카이브 영상 콘텐츠 활용을 위한 AI Outpainting 및 콘텐츠 변환 기술 개발
@@ -10,7 +10,7 @@
 
 - date: 2026-02-23
   type: publication
-  title: "Two papers accepted at 2026 CVPR Findings Track"
+  title: "Two papers accepted at CVPR 2026 Findings"
   description: |-
     (1) “EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting” by Jaeyoung Choi*, Hyeondong Kim*, Yujin Kim and Daehee Park
     (2) “BitTP: The Lightweight Trajectory Prediction Model with BitLLM for Edge-Devices” by Mincheol Kang*, Hyunjin Lim*, Bomin Kang* and Daehee Park
@@ -19,7 +19,7 @@
 
 - date: 2026-03
   type: Project
-  title: "Received a 4-year research grant from the Ministry of Science and ICT (NRF 우수신진B)"
+  title: "Awarded a 4-year research grant from the National Research Foundation of Korea (NRF 우수신진B)"
   description: |-
     Project title: 자기 진화형 Physical LLM: 불확실한 환경에서 행동 파운데이션 모델의 강건하고 효율적인 적응 기술 연구
     News: [Link](https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10024227&srCategoryId=581&article.offset=0&articleLimit=15#!/list)
@@ -29,21 +29,22 @@
   type: Events
   title: "Six Master's Students Joined the ISL Lab 🎓️"
   description: |-
-    Six new master’s students have joined the lab. Hyungchul Shin joins from the Department of Electrical Engineering and Computer Science (EECS), and Youngjin Park, Hyunjin Lim, Sihyeong Lee, Hyeonwoo Park, Donggyu Lee from the Department of Artificial Intelligence (AI).
+    Six new master’s students have joined the lab. Hyungchul Shin joins from the Department of Electrical Engineering and Computer Science (EECS), and Youngjin Park, Hyunjin Lim, Sihyeong Lee, Hyeonwoo Park, Donggyu Lee from the Department of Artificial Intelligence (AI). 
+    Welcome to ISL Lab!
   image: "media/news/newmem_26s.png"
 
 - date: 2025-12
   type: Project
-  title: "Received an NVIDIA Academic Grant Program award"
+  title: "Awarded an NVIDIA Academic Hardware Grant"
   description: |-
     Project title: Extending Action Foundation Models to Dynamic Human-Robot Collaboration, for inclusion in our Academic Grant Program
   image: "media/news/nvidia.png"
 
 - date: 2025-08
   type: Project
-  title: "Received a 1-year research grant from the Ministry of Science and ICT (우수신진 씨앗 연구)"
+  title: "Awarded a 1-year research grant from the National Research Foundation of Korea (우수신진 씨앗 연구)"
   description: |-
-    Project title: 행동  파운데이션  모델의  동적  환경으로  확장을  통한 안전하고  범용적인  인간-로봇  협동  연구
+    Project title: 행동 파운데이션 모델의 동적 환경으로 확장을 통한 안전하고 범용적인 인간-로봇 협동 연구
     News: [Link](https://www.enewstoday.co.kr/news/articleView.html?idxno=2320868)
   image: "media/news/MSIT.png"
 
@@ -52,11 +53,12 @@
   title: "Two Master's Students Joined the ISL Lab 🎓️"
   description: |-
     Two new master’s students have joined the lab. Jaeyoung Choi joins from the Department of Electrical Engineering and Computer Science (EECS), and Taewon Seo from the Department of Artificial Intelligence (AI).
+    Welcome to ISL Lab!
   image: "media/news/newmem_25f.png"
 
 - date: 2025-07
   type: Project
-  title: " Received a 3-year research grant from the Ministry of Science and ICT (생성 인공 지능(AI) 선도인재양성)"
+  title: "Awarded a 3-year research grant from the Ministry of Science and ICT (생성 인공지능(AI) 선도인재양성)"
   description: |-
     Project title: Physical AI 분야의 거대 생성모델 기술 선도를 위한 LG AI STAR 인재양성 사업
     News: [Link](https://www.ktenews.co.kr/bbs/board.php?bo_table=weekly_news&wr_id=6254)
@@ -86,7 +88,7 @@
 
 - date: 2025-06
   type: Project
-  title: "Received two 5-year research grants from the Ministry of Science and ICT (InnoCORE 연구단)"
+  title: "Awarded two 5-year research grants from the Ministry of Science and ICT (InnoCORE)"
   description: |-
     Project 1 title: 바이오 체화형 피지컬 AI 연구단
     Project 2 title: 초거대언어모델 혁신 연구단: LLM 기술 고도화 및 생성AI·멀티모달·신뢰성 확보 연구
@@ -116,7 +118,7 @@
 
 - date: 2025-03
   type: Project
-  title: "Received a 6-year research grant from the Ministry of Science and ICT (AI 스타펠로우십 지원)"
+  title: "Awarded a 6-year research grant from the Ministry of Science and ICT (AI 스타펠로우십 지원)"
   description: |
     Project  title: 인간 중심 공생적 임바디드 인공지능 시스템.
     News: [Link](https://www.newsprime.co.kr/news/article/?no=689300)
@@ -131,6 +133,6 @@
 
 - date: 2025-02
   type: Events
-  title: "ISL Lab has launched🚀"
+  title: "ISL Lab has launched 🚀"
   description: "Intelligent Systems and Learning Laboratory at DGIST EECS has launched in Feb 2025 by Prof. Daehee Park."
   image: "media/news/logo_news.png"
