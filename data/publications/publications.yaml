@@ -37,6 +37,10 @@
   domain: Autonomous Driving
   task: LLM Quantization
   links: 
+    paper: https://openaccess.thecvf.com/content/CVPR2026F/papers/Kang_BitTP_The_Lightweight_Trajectory_Prediction_Model_with_BitLLM_for_Edge-Devices_CVPRF_2026_paper.pdf
+    supp: https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Kang_BitTP_The_Lightweight_CVPRF_2026_supplemental.pdf
+    page: https://mintcat98.github.io/BitTP/
+    code:  https://github.com/MintCat98/BitTP
 
 - slug: EggHand-2026
   title: "EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting"
@@ -52,6 +56,9 @@
   domain: Human Motion Modeling
   task: Hand Pose Forecasting
   links: 
+    paper: https://openaccess.thecvf.com/content/CVPR2026F/papers/Choi_EggHand_A_Multimodal_Foundation_Model_for_Egocentric_Hand_Pose_Forecasting_CVPRF_2026_paper.pdf
+    supp: https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Choi_EggHand_A_Multimodal_CVPRF_2026_supplemental.pdf
+    page: https://jyoun9.github.io/EggHand/
 
 - slug: Diffusion-Model-2025
   title: "Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model"
