@@ -5,6 +5,20 @@
 #   page: https://...
 #   code: https://github.com/...
 #   link: https://...
+- slug: Merging-2026
+  title: "Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training"
+  authors:
+    - Taewon Seo*
+    - Seonae Jeon*
+    - Giwon Lee*
+    - Daehee Park†
+  venue: ECCV
+  category: conference
+  date: 2026-09-10
+  method: Knowledge Integration
+  domain: Autonomous Driving
+  task: Merging
+  links: 
 
 - slug: CascadeOcc-2026
   title: "CascadeOcc: Rethinking 3D Occupancy World Models with Cascaded VQ Representations"
