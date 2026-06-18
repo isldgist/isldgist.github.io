@@ -12,7 +12,8 @@
   funding: "한국정보통신진흥협회"
   organization: "정보통신산업진흥원"
   infra: "B200 * 16대"
-  status: "Ongoing"
+  status: "Completed"
+  start: "2026-05"
 
 - title: "아카이브 영상 콘텐츠 활용을 위한 AI Outpainting 및 콘텐츠 변환 기술 개발"
   duration: "04/2026 - 12/2028 (3 years)"
