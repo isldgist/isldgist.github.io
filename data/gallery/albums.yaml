@@ -28,7 +28,7 @@
   cover: "1.jpg"
   category: "Group Photos"
   date: "2026-03-31"
-  location: "DGIST"
+  location: "Daegu"
 
 - slug: "202604-cherry-blossom-cafe-tour"
   title: "2026 Cherry Blossom Cafe Tour"
@@ -36,7 +36,7 @@
   cover: "1.jpg"
   category: "Events"
   date: "2026-04-03"
-  location: "DGIST"
+  location: "Daegu"
 
 - slug: "202602-beef-party"
   title: "2026 Beef Party"
@@ -44,7 +44,7 @@
   cover: "1.jpg"
   category: "Events"
   date: "2026-02-26"
-  location: "DGIST"
+  location: "Daegu"
 
 - slug: "202512-winter-group-photo"
   title: "2025 Winter Group Photo"
@@ -52,7 +52,7 @@
   cover: "1.jpg"
   category: "Group Photos"
   date: "2025-12-18"
-  location: "DGIST"
+  location: "Daegu"
 
 - slug: "202510-fall-dinner"
   title: "2025 Fall Dinner"
@@ -60,7 +60,7 @@
   cover: "1.jpg"
   category: "Events"
   date: "2025-10-17"
-  location: "DGIST"
+  location: "Daegu"
 
 - slug: "202510-happy-hour"
   title: "2025 Happy Hour"
@@ -84,7 +84,7 @@
   cover: "1.jpg"
   category: "Events"
   date: "2025-09-08"
-  location: "DGIST"
+  location: "Daegu"
 
 - slug: "202604-Lab-Relocation-Celebration-Dinner"
   title: "2025 Lab Relocation Celebration Dinner"
@@ -92,7 +92,7 @@
   cover: "1.jpg"
   category: "Events"
   date: "2025-08-25"
-  location: "DGIST"
+  location: "Daegu"
 
 - slug: "202508-fall-openlab"
   title: "2025 Fall Open Lab"
@@ -124,7 +124,7 @@
   cover: "1.jpg"
   category: "Events"
   date: "2025-06-27"
-  location: "DGIST"
+  location: "Daegu"
 
 - slug: "202505-professor-birthday"
   title: "2025 Teacher's Day"
