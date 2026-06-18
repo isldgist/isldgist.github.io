@@ -1,4 +1,11 @@
 
+- date: 2026-02-23
+  type: publication
+  title: "One paper accepted at ECCV 2026"
+  description: |-
+    The paper is “Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning ” by Taewon Seo*, Seonae Jeon*, Giwon Lee* and Daehee Park
+  image: "media/news/eccv_2026.png"
+
 - date: 2026-05
   type: Project
   title: "Awarded three research grants for AI and robotics projects (미래유망융합기술파이오니어, K-콘텐츠 제작 기술개발, 첨단 GPU 활용 지원 사업)"
