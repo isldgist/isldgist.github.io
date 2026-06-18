@@ -1,3 +1,11 @@
+- slug: "202606-cvpr"
+  title: "2026 CVPR"
+  folder: "202606_cvpr"
+  cover: "1.png"
+  category: "Conference"
+  date: "2026-06-03"
+  location: "Denver, USA"
+
 - slug: "202604-before-neurips-submission"
   title: "2026 Before NeurIPS(2026) Submission"
   folder: "202604_족발파티"
@@ -13,7 +21,6 @@
   category: "Events"
   date: "2026-03-28"
   location: "DGIST"
-
 
 - slug: "202603-cherry-blossom-group-photo"
   title: "2026 Cherry Blossom Group Photo"
