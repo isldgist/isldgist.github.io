@@ -17,7 +17,7 @@
   date: 2026-09-10
   method: Knowledge Integration
   domain: Autonomous Driving
-  task: Merging
+  task: Motion Prediction and Planning
   links: 
 
 - slug: CascadeOcc-2026
