@@ -6,6 +6,14 @@
   date: "2026-06-03"
   location: "Denver, USA"
 
+- slug: "202605-teachers-day"
+  title: "2026 Teacher's Day"
+  folder: "202605_스승의날"
+  cover: "1.jpg"
+  category: "Conference"
+  date: "2026-05-15"
+  location: "Daegu"
+
 - slug: "202604-before-neurips-submission"
   title: "2026 Before NeurIPS(2026) Submission"
   folder: "202604_족발파티"
