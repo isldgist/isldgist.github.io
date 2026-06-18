@@ -11,13 +11,14 @@
     - Taewon Seo*
     - Seonae Jeon*
     - Giwon Lee*
+    - Kukjin Yoon†
     - Daehee Park†
   venue: ECCV
   category: conference
   date: 2026-09-10
   method: Knowledge Integration
   domain: Autonomous Driving
-  task: Motion Prediction and Planning
+  task: Motion Prediction & Planning
   links: 
 
 - slug: CascadeOcc-2026

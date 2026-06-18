@@ -1,9 +1,9 @@
 
-- date: 2026-02-23
+- date: 2026-06-18
   type: publication
   title: "One paper accepted at ECCV 2026"
   description: |-
-    The paper is “Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning ” by Taewon Seo*, Seonae Jeon*, Giwon Lee* and Daehee Park
+    The paper is “Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning ” by Taewon Seo*, Seonae Jeon*, Giwon Lee*, Kukjin Yoon† and Daehee Park†
   image: "media/news/eccv_2026.png"
 
 - date: 2026-05
@@ -14,6 +14,13 @@
     Project title: 아카이브 영상 콘텐츠 활용을 위한 AI Outpainting 및 콘텐츠 변환 기술 개발
     Project title: 한국형 Physical LLM 의 실시간성과 안정성을 위한 가변형 추론 프레임워크 개발
   image: "media/news/3orgs.png"
+
+- date: 2026-02-23
+  type: publication
+  title: "One paper accepted at IEEE Signal Processing Letters"
+  description: |-
+    The paper is “CascadeOcc: Rethinking 3D Occupancy World Models with Cascaded VQ Representations ” by Kyumin Hwang*, Wonhyeok Choi*, Jaeyeul Kim, Jihun Park, Daehee Park† and Sunghoon Im†
+  image: "media/news/ieee_spl.png"
 
 - date: 2026-02-23
   type: publication
