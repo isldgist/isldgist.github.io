@@ -1,17 +1,17 @@
 schema: hugoblox/author/v1
-slug: kyoungjaekim
+slug: gyungjaekim
 category: Interns
 order: 9
 name:
-  display: Kyoungjae Kim
-  given: Kyoungjae
+  display: Gyungjae Kim
+  given: Gyungjae
   family: Kim
 role: Intern
 bio: B.S, Kookmin Univ.
 tags:
   - Physical A.I.
   - Autonomous Driving
-hidden_image: kyoungjaekim.jpg
+hidden_image: gyungjaekim.jpg
 links:
   - icon: at-symbol
     url: mailto:rnfmarlck12@gmail.com
