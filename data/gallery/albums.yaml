@@ -1,3 +1,11 @@
+- slug: "202606-closing-party"
+  title: "2026 1st Closing Party"
+  folder: "202606_종강파티"
+  cover: "1.jpg"
+  category: "Events"
+  date: "2026-06-17"
+  location: "Daegu"
+
 - slug: "202606-cvpr"
   title: "2026 CVPR"
   folder: "202606_cvpr"
