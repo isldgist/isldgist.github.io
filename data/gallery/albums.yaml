@@ -102,16 +102,8 @@
   date: "2025-08-30"
   location: "DGIST"
 
-- slug: "202508-second-relocation"
-  title: "2025 Lab Relocation 2"
-  folder: "202508_연구실이사2"
-  cover: "1.jpg"
-  category: "Events"
-  date: "2025-08-29"
-  location: "DGIST"
-
 - slug: "202508-first-relocation"
-  title: "2025 Lab Relocation 1"
+  title: "2025 Lab Relocation"
   folder: "202508_연구실이사1"
   cover: "1.jpg"
   category: "Events"
