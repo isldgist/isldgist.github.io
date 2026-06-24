@@ -32,6 +32,7 @@ items:
         icon: /media/icon/github.svg
       - label: YouTube
         url: https://www.youtube.com/@ISLLabDGIST
+        text: YouTube Channel
         icon: /media/icon/youtube.svg
       - label: Apply
         url: https://forms.gle/EZTdExuBqut9GR817

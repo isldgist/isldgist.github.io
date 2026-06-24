@@ -37,6 +37,7 @@
   domain: Autonomous Driving
   task: 4D Occupancy Forecasting
   links: 
+    paper: https://ieeexplore.ieee.org/document/11474772
 
 - slug: BitTP-2026
   title: "BitTP: The Lightweight Trajectory Prediction Model with BitLLM for Edge-Devices"
