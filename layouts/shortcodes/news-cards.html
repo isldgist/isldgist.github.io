@@ -111,6 +111,10 @@
     background-color: #f97316;
   }
 
+  .news-badge-honor {
+    background-color: #84cc16;
+  }
+
   @media (max-width: 639px) {
     .news-card-row {
       grid-template-columns: 12rem minmax(0, 1fr);
@@ -377,6 +381,8 @@
         {{ $itemTypeLabel = "Publication" }}
       {{ else if eq $itemType "project" }}
         {{ $itemTypeLabel = "Project" }}
+      {{ else if eq $itemType "honor" }}
+        {{ $itemTypeLabel = "Honor" }}
       {{ end }}
       {{ $itemTitle := $item.title | default "" }}
       {{ $itemDesc := $item.description | default "" }}
@@ -419,6 +425,7 @@
             <span class="news-badge inline-block px-3 py-1 text-xs md:text-sm font-semibold rounded-full
               {{ if eq $itemTypeLabel "Publication" }}news-badge-publication
               {{ else if eq $itemTypeLabel "Project" }}news-badge-project
+              {{ else if eq $itemTypeLabel "Honor" }}news-badge-honor
               {{ else }}news-badge-events{{ end }}">
               {{ $itemTypeLabel }}
             </span>
@@ -448,6 +455,7 @@
               <span class="news-badge inline-block px-3 py-1 text-xs md:text-sm font-semibold rounded-full
                 {{ if eq $itemTypeLabel "Publication" }}news-badge-publication
                 {{ else if eq $itemTypeLabel "Project" }}news-badge-project
+                {{ else if eq $itemTypeLabel "Honor" }}news-badge-honor
                 {{ else }}news-badge-events{{ end }}">
                 {{ $itemTypeLabel }}
               </span>
