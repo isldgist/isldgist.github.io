@@ -1,3 +1,12 @@
+- title: "숙련자 시연데이터 기반 조선소 작업 특화 양팔 모바일 매니퓰레이터 및 Physsical AI 작업스킬 실증 플랫폼 개발"
+  duration: "08/2026 - 12/2030 (5 years)"
+  program: "로봇간업기술개발산업"
+  funding: "HD현대로보틱스"
+  organization: "한국산업기술기획평가원"
+  status: "Ongoing"
+  category: research
+  start: "2026-08"
+
 - title: "도시형 생성 지능을 위한 사회적 군중 시뮬레이션 기술 개발"
   duration: "07/2026 - 01/2027 (7 months)"
   program: "국가 AI데이터센터 고도화 사업"
@@ -129,7 +138,7 @@
 - title: "NVIDIA Grant 2026"
   duration: "02/2026 - 08/2026 (0.5 years)"
   funding: "NVIDIA"
-  infra: "H200 * 4대"
+  infra: "Pro6000 * 4대"
   status: "Ongoing"
   category: gpu
   start: "2025-07"
