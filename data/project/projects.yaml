@@ -69,7 +69,7 @@
   program: "우수신진연구(씨앗연구)"
   funding: "과학기술정보통신부"
   organization: "한국연구재단"
-  status: "Ongoing"
+  status: "Completed"
   category: research
   start: "2025-09"
 
@@ -139,7 +139,7 @@
   duration: "02/2026 - 08/2026 (0.5 years)"
   funding: "NVIDIA"
   infra: "Pro6000 * 4대"
-  status: "Ongoing"
+  status: "Completed"
   category: gpu
   start: "2025-07"
 
