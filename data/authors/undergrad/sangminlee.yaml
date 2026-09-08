@@ -1,0 +1,24 @@
+schema: hugoblox/author/v1
+slug: sangminlee
+category: Interns
+order: 10
+name:
+  display: Sangmin Lee
+  given: Sangmin
+  family: Lee
+role: Intern
+bio: B.S., DGIST
+tags:
+  - Autonomous Driving
+hidden_image: sangminlee.jpg
+links:
+  - icon: at-symbol
+    url: mailto:lsh6224@gmail.com
+    label: Email
+  - icon: brands/github
+    url: https://github.com/austinlee04
+    label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sangmin-lee-916933420
+    label: LinkedIn
+
