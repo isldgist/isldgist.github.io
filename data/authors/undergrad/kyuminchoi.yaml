@@ -1,0 +1,26 @@
+schema: hugoblox/author/v1
+slug: kyuminchoi
+category: Interns
+order: 11
+name:
+  display: Kyumin Choi
+  given: Kyumin
+  family: Choi
+role: Intern
+bio: B.S., HUFS
+tags:
+  - Multimodal A.I.
+  - Robotics A.I.
+  - Computer Vision
+hidden_image: kyuminchoi.jpg
+links:
+  - icon: at-symbol
+    url: mailto:dinoboy990722@gmail.com
+    label: Email
+  - icon: brands/github
+    url: https://github.com/dinoboy22
+    label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/kyumin-choi-5a787a372/
+    label: LinkedIn
+
