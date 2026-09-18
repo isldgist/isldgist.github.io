@@ -20,6 +20,10 @@
   domain: Autonomous Driving
   task: Motion Prediction & Planning
   links: 
+    paper: https://arxiv.org/pdf/2607.19971
+    supp: https://dpt2026.github.io/static/pdfs/Supplementary_ECCV_2026_Unified_Prediction_and_Planning_via_Conflict_Aware_Disjoint_Parameter_Training.pdf
+    page: https://dpt2026.github.io/
+    code:  https://github.com/taewon-seo/disjoint-parameter-training
 
 - slug: CascadeOcc-2026
   title: "CascadeOcc: Rethinking 3D Occupancy World Models with Cascaded VQ Representations"
@@ -75,6 +79,7 @@
     paper: https://openaccess.thecvf.com/content/CVPR2026F/papers/Choi_EggHand_A_Multimodal_Foundation_Model_for_Egocentric_Hand_Pose_Forecasting_CVPRF_2026_paper.pdf
     supp: https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Choi_EggHand_A_Multimodal_CVPRF_2026_supplemental.pdf
     page: https://jyoun9.github.io/EggHand/
+    code:  https://github.com/JYOUN9/EggHand_Code
 
 - slug: Diffusion-Model-2025
   title: "Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model"
