@@ -1,3 +1,11 @@
+- slug: "202609-eccv"
+  title: "2026 ECCV"
+  folder: "202609_eccv"
+  cover: "1.jpg"
+  category: "Conference"
+  date: "2026-09-08"
+  location: "Malmö, Sweden"
+
 - slug: "202609-22nd-Anniversary-Ceremony"
   title: "2026 22nd Anniversary Ceremony"
   folder: "202609_서태원상"
