@@ -1,3 +1,11 @@
+- slug: "202610-Fall-Dinner"
+  title: "Dinner with RV Lab"
+  folder: "202610_거북이동네"
+  cover: "1.jpg"
+  category: "Events"
+  date: "2026-10-21"
+  location: "Daegu"
+
 - slug: "202609-eccv"
   title: "2026 ECCV"
   folder: "202609_eccv"
