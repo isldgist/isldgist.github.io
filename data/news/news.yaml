@@ -1,3 +1,10 @@
+- date: 2026-11
+  type: Honor
+  title: "Hyundong Kim received the Best Presentation Award at the 2026 DGIST Student Conference 🎖️"
+  description: |-
+    Hyundong Kim received the Best Presentation Award in the poster session at the 2026 DGIST Student Conference in recognition of his outstanding poster presentation.
+  image: "media/news/dgist_logo.png"
+
 - date: 2026-09-26
   type: publication
   title: "Two papers accepted at NeurIPS 2026"
